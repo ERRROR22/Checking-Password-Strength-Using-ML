@@ -33,4 +33,4 @@ Seaborn
 Sklearn
 # Acknowledgements
 This project was inspired by the Kaggle dataset on password strength and the corresponding competition. We also acknowledge the open-source Python libraries used in this project and their contributors.
-Ritik Sharma 👍
+[Ritik Sharma] 👍
